@@ -113,7 +113,7 @@ In order to run this project you need:</br>
 ### Setup
 
 Clone this repository to your desired folder by running the followin command: </br>
-`git clone https://github.com/DilsherB/sales-order-app.git` </br>
+`git clone https://github.com/DilsherB/randomColor.git` </br>
 then `cd "foldername"`</br>
 
 ### Install
@@ -125,13 +125,7 @@ Install this project with:
 
 To run the project, execute the following command:
 `npm run build` and then </br>
-`npm start`
-
-### Run tests
-
-To run tests, run the following command:
-`npm run test` but before that install jes with following command:</br>
-`npm i jest`
+`npm run dev`
 
 ### Deployment
 
@@ -156,9 +150,11 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Login page will be added to make sure authorized person is using the app]**
-- [ ] **[Email facility direct from the page will be added]**
-- [ ] **[System will automatically take the email address and name of the logged in person and will send the email to the sales invoice officer automatically]**
+1. Add more color options for users to choose from.
+2. Implement dark mode theme.
+3. Allow user's to save their favorite colors in a database or local storage.
+4. Create an API that allows other applications to use our random color generator.
+5. Make it responsive so it works on mobile devices as well.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,7 +164,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/DilsherB/sales-order-app/issues).
+Feel free to check the [issues page](..//./issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

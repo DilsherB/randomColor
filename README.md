@@ -58,6 +58,7 @@ Our color generator app is more than just a tool for generating colors; it's a c
     <li>Create mood boards for your interior design projects</li>
     <li>Develop color palettes for your marketing materials</li>
     <li>Discover new color combinations for your personal style</li>
+    <li>Give your site a nice coloring scheme</li>
 </ul>
 
 ## 🛠 Built With <a name="built-with"></a>

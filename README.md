@@ -86,14 +86,9 @@ Our color generator app is more than just a tool for generating colors; it's a c
 
 > You can.
 
-- **[automatically have current date]**
-- **[You can enter delivery date]**
-- **[On entering customer code you will get customer name automatically]**
-- **[You can enter as many items as you want to make sales order]**
-- **[On entering 'item code', 'item fraction' and 'item price' will automatically come up]**
-- **[You can add new row by clicking 'Add row' button]**
-- **[After completing the sales order, you can download all information as an Excel file by clicking on 'Export to Excel' button]**
-- **[For assistant of the salesman there is a section at the end of the app where you can see all items by clicking on relative icon]**
+- **[Generate color by clicking "RANDOM COLOR" button]**
+- **[Get color code(hex) to use in your project]**
+- **[It will give you complete schema with background foreground and button colors]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

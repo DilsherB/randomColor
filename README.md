@@ -96,7 +96,7 @@ Our color generator app is more than just a tool for generating colors; it's a c
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> [Live demo](https://sales-order.netlify.app/)
+> [Live demo](https://random-color-g.netlify.app/)
 
 <!-- GETTING STARTED -->
 

@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Title from "../components/Title";
+import CopyButton from "../components/CopyButton";
 
 const RandomColor = () => {
   const [fontColor, setFontColor] = useState("#000");
@@ -53,19 +54,31 @@ const RandomColor = () => {
         </h2>
         <div className="colorInfoStyle">
           <p>Font Color: </p>
-          <p>{fontColor}</p>
+          <div style={{ display: "flex", gap: "1rem" }}>
+            <p>{fontColor}</p>
+            <CopyButton colorCode={fontColor} />
+          </div>
         </div>
         <div className="colorInfoStyle">
           <p>Background Color: </p>
-          <p>{bgColor}</p>
+          <div style={{ display: "flex", gap: "1rem" }}>
+            <p>{bgColor}</p>
+            <CopyButton colorCode={bgColor} />
+          </div>
         </div>
         <div className="colorInfoStyle">
           <p>Button Background Color: </p>
-          <p>{buttonBgColor}</p>
+          <div style={{ display: "flex", gap: "1rem" }}>
+            <p>{buttonBgColor}</p>
+            <CopyButton colorCode={buttonBgColor} />
+          </div>
         </div>
         <div className="colorInfoStyle">
           <p>Button Color: </p>
-          <p>{buttonColor}</p>
+          <div style={{ display: "flex", gap: "1rem" }}>
+            <p>{buttonColor}</p>
+            <CopyButton colorCode={buttonColor} />
+          </div>
         </div>
       </div>
     </div>
